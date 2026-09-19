@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0",
+  "latestVersionCode": 2,
+  "latestVersionName": "2.0",
   "apkUrl": "https://raw.githubusercontent.com/megnets-info/MegnetsReader-Updates/main/app-release.apk",
   "releaseNotes": "1. First release of Megnets Reader\n2. Auto update system added"
 }
